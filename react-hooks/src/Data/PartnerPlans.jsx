@@ -27,6 +27,9 @@ export const partnerPlans = [
     {
       title: "Large",
       description: "Looking for even more of the good stuff?",
+
+
+  
       features: ["We can work on a custom engagement, just reach out."]
     }
   ];

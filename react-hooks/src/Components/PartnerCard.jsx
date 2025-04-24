@@ -22,7 +22,7 @@ export const PartnerCard = ({ title, description, features = [], price, gradient
         <p className="text-xl font-bold mt-4">{price}</p>
       )}
 
-      <button className=" bg-[#7163e1] text-white px-2 py-1  text-sm w-0px">
+      <button className=" mx-auto w-40  bg-[#7163e1] text-white px-4 rounded-md  ">
         Let's go
       </button>
     </div>
